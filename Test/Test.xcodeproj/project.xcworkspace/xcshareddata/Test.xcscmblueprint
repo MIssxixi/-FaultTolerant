@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "32C07D6BA2FEBCA92447306FF2454CBF645B42ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BBC9F84F18AE2097ADCB07A900D5DA6B4DA14D14" : 0,
+    "32C07D6BA2FEBCA92447306FF2454CBF645B42ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "30544E44-D2F5-4DC3-8C4D-681F2B5C5057",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BBC9F84F18AE2097ADCB07A900D5DA6B4DA14D14" : "",
+    "32C07D6BA2FEBCA92447306FF2454CBF645B42ED" : "FaultTolerant\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Test\/Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MIssxixi\/FaultTolerant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32C07D6BA2FEBCA92447306FF2454CBF645B42ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MIssxixi\/BaoXingTong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBC9F84F18AE2097ADCB07A900D5DA6B4DA14D14"
+    }
+  ]
+}
