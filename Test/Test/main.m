@@ -9,12 +9,15 @@
 #import <Foundation/Foundation.h>
 #import "ArrayTest.h"
 #import "DictionaryTest.h"
+#import "StringTest.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         [ArrayTest test];
         
         [DictionaryTest test];
+        
+        [StringTest test];
     }
     return 0;
 }

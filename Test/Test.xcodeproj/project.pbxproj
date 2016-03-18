@@ -10,6 +10,7 @@
 		1FD1AB511C9BCEE40057710B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB501C9BCEE40057710B /* main.m */; };
 		1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */; };
 		1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */; };
+		1FD1AB611C9BE5B70057710B /* StringTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB601C9BE5B70057710B /* StringTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayTest.m; sourceTree = "<group>"; };
 		1FD1AB5C1C9BE0D40057710B /* DictionaryTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictionaryTest.h; sourceTree = "<group>"; };
 		1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictionaryTest.m; sourceTree = "<group>"; };
+		1FD1AB5F1C9BE5B70057710B /* StringTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringTest.h; sourceTree = "<group>"; };
+		1FD1AB601C9BE5B70057710B /* StringTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +54,8 @@
 				1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */,
 				1FD1AB5C1C9BE0D40057710B /* DictionaryTest.h */,
 				1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */,
+				1FD1AB5F1C9BE5B70057710B /* StringTest.h */,
+				1FD1AB601C9BE5B70057710B /* StringTest.m */,
 				1FD1AB4F1C9BCEE40057710B /* Test */,
 				1FD1AB4E1C9BCEE40057710B /* Products */,
 			);
@@ -130,6 +135,7 @@
 			files = (
 				1FD1AB511C9BCEE40057710B /* main.m in Sources */,
 				1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */,
+				1FD1AB611C9BE5B70057710B /* StringTest.m in Sources */,
 				1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
