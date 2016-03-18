@@ -1,5 +1,5 @@
 //
-//  main.m
+//  ArrayTest.h
 //  Test
 //
 //  Created by yongjie_zou on 16/3/18.
@@ -7,12 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "ArrayTest.h"
 
-int main(int argc, const char * argv[]) {
-    @autoreleasepool {
-        [ArrayTest test];
-    }
-    return 0;
-}
+@interface ArrayTest : NSObject
 
++ (void)test;
+
+@end
