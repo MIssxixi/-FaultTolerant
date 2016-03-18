@@ -8,10 +8,13 @@
 
 #import <Foundation/Foundation.h>
 #import "ArrayTest.h"
+#import "DictionaryTest.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         [ArrayTest test];
+        
+        [DictionaryTest test];
     }
     return 0;
 }

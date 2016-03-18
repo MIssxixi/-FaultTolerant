@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1FD1AB511C9BCEE40057710B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB501C9BCEE40057710B /* main.m */; };
 		1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */; };
+		1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		1FD1AB501C9BCEE40057710B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1FD1AB591C9BD11F0057710B /* ArrayTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayTest.h; sourceTree = "<group>"; };
 		1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayTest.m; sourceTree = "<group>"; };
+		1FD1AB5C1C9BE0D40057710B /* DictionaryTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictionaryTest.h; sourceTree = "<group>"; };
+		1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictionaryTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +49,8 @@
 			children = (
 				1FD1AB591C9BD11F0057710B /* ArrayTest.h */,
 				1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */,
+				1FD1AB5C1C9BE0D40057710B /* DictionaryTest.h */,
+				1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */,
 				1FD1AB4F1C9BCEE40057710B /* Test */,
 				1FD1AB4E1C9BCEE40057710B /* Products */,
 			);
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FD1AB511C9BCEE40057710B /* main.m in Sources */,
+				1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */,
 				1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
