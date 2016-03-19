@@ -11,6 +11,7 @@
 @interface KeyValueTest : NSObject
 
 @property (nonatomic, copy) NSString *name;
+@property (nonatomic, copy) NSString *phone;
 
 + (void)test;
 
