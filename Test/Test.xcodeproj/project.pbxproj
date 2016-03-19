@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1FD1A19A1C9D488B007961FB /* KeyValueTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1A1991C9D488B007961FB /* KeyValueTest.m */; };
 		1FD1AB511C9BCEE40057710B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB501C9BCEE40057710B /* main.m */; };
 		1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5A1C9BD11F0057710B /* ArrayTest.m */; };
 		1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */; };
@@ -26,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1FD1A1981C9D488B007961FB /* KeyValueTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyValueTest.h; sourceTree = "<group>"; };
+		1FD1A1991C9D488B007961FB /* KeyValueTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyValueTest.m; sourceTree = "<group>"; };
 		1FD1AB4D1C9BCEE40057710B /* Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FD1AB501C9BCEE40057710B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1FD1AB591C9BD11F0057710B /* ArrayTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayTest.h; sourceTree = "<group>"; };
@@ -56,6 +59,8 @@
 				1FD1AB5D1C9BE0D40057710B /* DictionaryTest.m */,
 				1FD1AB5F1C9BE5B70057710B /* StringTest.h */,
 				1FD1AB601C9BE5B70057710B /* StringTest.m */,
+				1FD1A1981C9D488B007961FB /* KeyValueTest.h */,
+				1FD1A1991C9D488B007961FB /* KeyValueTest.m */,
 				1FD1AB4F1C9BCEE40057710B /* Test */,
 				1FD1AB4E1C9BCEE40057710B /* Products */,
 			);
@@ -134,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FD1AB511C9BCEE40057710B /* main.m in Sources */,
+				1FD1A19A1C9D488B007961FB /* KeyValueTest.m in Sources */,
 				1FD1AB5E1C9BE0D40057710B /* DictionaryTest.m in Sources */,
 				1FD1AB611C9BE5B70057710B /* StringTest.m in Sources */,
 				1FD1AB5B1C9BD11F0057710B /* ArrayTest.m in Sources */,
@@ -255,6 +261,7 @@
 				1FD1AB561C9BCEE40057710B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

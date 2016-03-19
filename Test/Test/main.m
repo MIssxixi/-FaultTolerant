@@ -10,6 +10,7 @@
 #import "ArrayTest.h"
 #import "DictionaryTest.h"
 #import "StringTest.h"
+#import "KeyValueTest.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -18,6 +19,8 @@ int main(int argc, const char * argv[]) {
         [DictionaryTest test];
         
         [StringTest test];
+        
+        [KeyValueTest test];
     }
     return 0;
 }
